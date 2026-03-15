@@ -21,7 +21,7 @@ An interactive Power BI dashboard developed during my internship to analyze agri
 ### Dashboard Preview
 
 #### Overview Page
-![Overview](Screenshot(19).png)
+![Overview]((https://github.com/tanuja115/India-Crop-Production-Analysis/blob/main/Screenshot%20(19).png))
 
 #### Crop Analysis
 ![Crop Analysis](Screenshot(20).png)
