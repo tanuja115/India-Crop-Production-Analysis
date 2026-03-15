@@ -17,14 +17,4 @@ An interactive Power BI dashboard developed during my internship to analyze agri
 
 ## Insights
 * Identified the top-producing states using funnel visualization.
-* Analyzed the production share of major crops like Rice, Wheat, and Sugarcane.
-### Dashboard Preview
-
-#### Overview Page
-![Overview](Screenshot(19).png))
-
-#### Crop Analysis
-![Crop Analysis](Screenshot(20).png)
-
-#### State Analysis
-![State Analysis](Screenshot(21).png)
+* Analyzed the production share of major crops like Rice, Wheat, and Sugarcane
